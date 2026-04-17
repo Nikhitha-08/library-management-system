@@ -20,4 +20,4 @@ A CLI-based Library Management System built using Python and MySQL.
 3. Run:
 
 ## Author
-Your Name
+Nikhitha K
